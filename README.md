@@ -10,11 +10,15 @@ Este projeto consiste na modelagem de um banco de dados utilizando o **Modelo Es
 - **Análise de Dados**: Criar uma planilha Excel conectada ao DW para permitir análises típicas de BI, como Slice and Dice, Pivot, Drill Down, e Drill Up.
 
 ## Modelos Criados
+- **Modelo Conceitual (ER Diagram)**:
+  ![Modelo Conceitual](arquivos_grupo_cfb/Modelo%20Conceitual%20(ER%20Diagram).png)
+
 - **Modelo Relacional**:
   ![Modelo Relacional](arquivos_grupo_cfb/Modelo%20Relacional.png)
   
-- **Modelo Conceitual (ER Diagram)**:
-  ![Modelo Conceitual](arquivos_grupo_cfb/Modelo%20Conceitual%20(ER%20Diagram).png)
+- **Modelo Vertabelo Completo**:
+  ![Modelo Vertabelo Completo](modelos_datawarehouse/CFB_Datawarehouse_completo-2021-11-23_22-49.png)
+
 
 ## Descrição dos Fatos e Dimensões
 - **Fato Detalhado**: Contém informações detalhadas de receitas, incluindo o valor (R$), quantidade de medicamentos vendidos, ID do pedido, e hora da venda. As quebras são possíveis por:
