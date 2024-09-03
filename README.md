@@ -11,10 +11,10 @@ Este projeto consiste na modelagem de um banco de dados utilizando o **Modelo Es
 
 ## Modelos Criados
 - **Modelo Relacional**:
-  ![Modelo Relacional](Modelo%20Relacional.png)
+  ![Modelo Relacional](arquivos_grupo_cfb/Modelo%20Relacional.png)
   
 - **Modelo Conceitual (ER Diagram)**:
-  ![Modelo Conceitual](Modelo%20Conceitual%20(ER%20Diagram).png)
+  ![Modelo Conceitual](arquivos_grupo_cfb/Modelo%20Conceitual%20(ER%20Diagram).png)
 
 ## Descrição dos Fatos e Dimensões
 - **Fato Detalhado**: Contém informações detalhadas de receitas, incluindo o valor (R$), quantidade de medicamentos vendidos, ID do pedido, e hora da venda. As quebras são possíveis por:
