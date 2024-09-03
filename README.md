@@ -1,7 +1,3 @@
-Aqui está uma sugestão para o README do seu projeto de Modelagem Informacional:
-
----
-
 # Projeto de Modelagem Informacional - CFB Farmácia
 
 ## Visão Geral
