@@ -50,7 +50,7 @@ Este projeto demonstrou a aplicabilidade do Modelo Estrela na criação de siste
 
 ## Autores
 - **Gabriel Machado**
-- **Gianlucca Devigil**
+- **Gianlucca Devigili**
 
 ## Licença
 Este projeto é licenciado sob a [MIT License](LICENSE).
