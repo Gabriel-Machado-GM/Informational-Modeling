@@ -1,5 +1,3 @@
-Here is the translated README.md:
-
 # Informational Modeling Project - CFB Pharmacy
 
 ## Overview
